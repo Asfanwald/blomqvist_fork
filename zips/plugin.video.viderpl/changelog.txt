@@ -1,4 +1,4 @@
-2.0.0
+2.0
 - fixed video fetching
 - fixed video playing
 - changed captcha to manual input
