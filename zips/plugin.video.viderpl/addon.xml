@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.viderpl" version="2.0.0" name="Vider" provider-name="mbebe, updated by Asfanwald">
+<addon id="plugin.video.viderpl" version="2.0" name="Vider" provider-name="mbebe/Asfanwald">
 <requires>
   <import addon="script.common.plugin.cache" version="2.5.5"/> 
   <import addon="script.module.requests" version="2.19.1"/>
@@ -11,7 +11,7 @@
 <extension point="xbmc.addon.metadata">
   <summary lang="en">vider.info</summary>
   <description lang="en">vider.pl</description>
-  <disclaimer lang="en">A private use only. </disclaimer>
+  <disclaimer lang="en">For private use only.</disclaimer>
   <language></language>
   <platform>all</platform>
   <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
