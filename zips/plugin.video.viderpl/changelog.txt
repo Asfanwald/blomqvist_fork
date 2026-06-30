@@ -1,4 +1,9 @@
-1.9.6
+2.0.0
+- fixed video fetching
+- fixed video playing
+- changed captcha to manual input
+
+1.9.7
 - fix USER-AGENT
 
 1.9.6
