@@ -1,3 +1,7 @@
+2.1
+- fixed video fetching
+- updated USER-AGENT
+
 2.0
 - fixed video fetching
 - fixed video playing
